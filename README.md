@@ -15,7 +15,7 @@ Implementation of the WORDLE game in python3 with french words
 
 </div>
 
-# Example
+
 
 # The game
 You have 6 chance to guess a word of 5 characters, after 6 tries the game is over
